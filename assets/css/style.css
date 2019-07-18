@@ -4,6 +4,20 @@ body {
   background-color: #111
   color: #efefef;
 }
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto; 
+}
 /* Top Section */
 #topsection {
     background-image: url('../../assets/images/head-background.png');	
@@ -51,3 +65,23 @@ body {
   content: ' ';
   background: linear-gradient(rgba(17, 17, 17, 0.2), rgba(17, 17, 17, 0.8), #111); 
 }
+/* Form*/
+.form-inline {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  width: 100%;
+  justify-content: center;
+}
+.form-group {
+  display: flex;
+  flex: 0 0 auto;
+  flex-flow: row wrap;
+  align-items: left;
+  margin-bottom: 0; 
+}
+.form-inline .form-control {
+  display: inline-block;
+  width: auto;
+  vertical-align: middle; 
+}    
