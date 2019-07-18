@@ -1,0 +1,14 @@
+/* Body */
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #111
+}
+/* Top Section */
+#topsection {
+    background-image: url('../../assets/images/head-background.png');	
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    /*background-color: #111 /*applying a background color so the text will show even if the background image doesn't load in time*/
+  }
+
