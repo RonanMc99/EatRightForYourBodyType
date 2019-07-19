@@ -41,6 +41,10 @@ p {
     align-items: center;
     justify-content: space-between; 
   }
+.nav-item:hover {
+    -webkit-transform: scale(1.1);
+    margin: 0 2em;
+  }
 /* Dark Sections */
 .darksection {
   background: linear-gradient(to bottom, rgba(0, 0, 0, .75), rgba(46, 45, 45, 0.75));  
