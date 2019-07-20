@@ -74,7 +74,6 @@ p {
   flex-flow: row wrap;
   align-items: center;
   width: 100%;
-  justify-content: center;
 }
 .form-group {
   display: flex;
@@ -86,6 +85,6 @@ p {
 .form-inline .form-control {
   display: inline-block;
   width: auto;
-  vertical-align: middle; 
+  vertical-align: left; 
 }    
 /* Footer */
