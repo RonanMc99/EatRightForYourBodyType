@@ -1,8 +1,6 @@
 /* Body */
 body {
   font-family: 'Montserrat', sans-serif;
-  /* background-color: #111 */
-  /* color: #efefef; */
 }
 p {
   display: block;
@@ -78,14 +76,10 @@ p {
     justify-content: center;
     margin: auto;
   }
-
 .form-inline {
   display: flex;
   flex-flow: row wrap;
   align-items: stretch;
   width: 100%;
-}
-
-
-  
+} 
 /* Footer */
