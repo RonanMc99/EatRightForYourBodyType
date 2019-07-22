@@ -16,6 +16,9 @@ p {
   margin-right: auto;
   margin-left: auto; 
 }
+.img-fluid {
+  border: none;
+}
 /* Top Section */
 #topsection {
     background-image: url('../../assets/images/head-background.png');	
@@ -76,6 +79,7 @@ p {
     justify-content: center;
     margin: auto;
   }
+}
 .form-inline {
   display: flex;
   flex-flow: row wrap;
