@@ -22,7 +22,7 @@ On that basis, I created a list of requirements:
 4. Provide additional information for people who don’t fall neatly into one of the 3 main categories
 5. Explain the limitations of the body type model and why it’s not a ‘final destination’.  A person can always improve their body composition despite their body type
 6. Allow visitors to download a PDF with some simple guidelines for body-type eating
-7. Provides an option to sign up for a nutritional consultation if they want to know more (contact form)
+7. Provides an option to sign up for a nutritional consultation if they want to know more (contact form) **Note: Functionality for this form is out of scope as the project is a User-Centric Frontend Development Project i.e. HTML/CSS only.**  This button could be linked to JS or a 3rd party autoresponder at a later date
 8. Has social sharing links
 9. Includes a disclaimer
 
@@ -63,4 +63,4 @@ I tested this site using the requirements document listed above - checking off e
 [Standardista) (http://www.standardista.com/px-to-rem-conversion-if-root-font-size-is-16px/)
 [Udemy - The Bootstrap 4 Bootcamp by Colt Steele] (https://www.udemy.com/bootstrap-4-bootcamp/)
 
-***[Narender Singh] (https://github.com/nar3nd3r) for his help and advice throughout.
+**[Narender Singh] (https://github.com/nar3nd3r) for his help and advice throughout.
