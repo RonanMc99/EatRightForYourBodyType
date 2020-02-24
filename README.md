@@ -2,6 +2,8 @@
 ## An informational website for athletic/sports people who want to refine their diet to match their body type 
 This project was created as part of the Usercentric Frontend module of the [Fullstack Developer training at Code Institute](https://codeinstitute.net/full-stack-software-development-diploma-uk)
 
+Check it out here: [Eat Right for your Body Type](https://ronanmc99.github.io/EatRightForYourBodyType/)
+
 ## UX
 The user experience was about providing information in a clear and non-technical way for the user, and to provide a practical way to move forward.  
 It aimed to outline what body types are, and what the user can do with this knowledge.
