@@ -1,6 +1,7 @@
 # Eat Right For Your Body Type
 ## An informational website for athletic/sports people who want to refine their diet to match their body type 
-This project was created as part of the Usercentric Frontend module of the [Fullstack Developer training at Code Institute](https://codeinstitute.net/full-stack-software-development-diploma-uk)
+
+![project-1](https://user-images.githubusercontent.com/51950969/87929157-e4688800-ca7d-11ea-97bd-544ad990fb4b.jpg)
 
 Check it out here: [Eat Right for your Body Type](https://ronanmc99.github.io/EatRightForYourBodyType/)
 
